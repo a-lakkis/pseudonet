@@ -12,7 +12,7 @@ Recomended installation procedure is as follows.
 PseudoNet_0_9_0.tar.gz
 ```
 
-2. Make sure the current working directory in R is set to your downloads or instead, move the download tar.gz file to the current working directory set in R.
+2. Make sure the current working directory in R contains the downloaded tar.gz file. If not, either change the working directory or move the tar.gz file to the current working directory.
 
 
 3. Run the following line of code in R
