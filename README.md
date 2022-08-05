@@ -15,4 +15,8 @@ PseudoNet_0_9_0.tar.gz
 ```
 install.packages('pseudonet_0.9.0.tar.gz', repos = NULL, type='source')
 ```
+4. Finally, install the library
+```
+library(pseudonet)
+```
 
