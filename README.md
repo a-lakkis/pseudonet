@@ -10,11 +10,9 @@ Recomended installation procedure is as follows.
 2. Download the package above 
 ```
 PseudoNet_0_9_0.tar.gz
-
 ```
-3. Run this line of code in R
+3. Run the following line of code in R
 ```
 install.packages('pseudonet_0.9.0.tar.gz', repos = NULL, type='source')
-
 ```
 
