@@ -9,7 +9,7 @@ Recomended installation procedure is as follows.
 1. Install [R](https://www.r-project.org/)  on your computer if you do not already have it. (Note: some users may find it very useful to also download [RStudio](https://www.rstudio.com/products/rstudio/download/) but this is not necessary).
 2. Download the package above 
 ```
-Hello world
+PseudoNet_0_9_0.tar.gz
 
 ```
 
