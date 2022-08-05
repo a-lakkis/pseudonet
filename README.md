@@ -11,6 +11,8 @@ Recomended installation procedure is as follows.
 ```
 PseudoNet_0_9_0.tar.gz
 ```
+2. Make sure the current working directory in R is set to downloads or move the download tar.gz file to the current working directory set in R
+
 3. Run the following line of code in R
 ```
 install.packages('pseudonet_0.9.0.tar.gz', repos = NULL, type='source')
