@@ -6,6 +6,6 @@ Pseudonet is an R package that provides a supervised approach for pseudo-time re
 
 Recomended installation procedure is as follows.
 
-1. Install [R] (https://www.r-project.org/)  on your computer if you do not already have it. (Note: Some users may find it very useful to also download RStudio but this is not necessary).
+1. Install [R](https://www.r-project.org/)  on your computer if you do not already have it. (Note: Some users may find it very useful to also download RStudio but this is not necessary).
 2. 
 
